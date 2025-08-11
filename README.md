@@ -3,3 +3,6 @@ TOP's Landing Page Project, allowing me an opportunity to work on my HTML/CSS sk
 
 ## Pre-Project Reflection
 This is a pretty daunting task, but I believe my fundamentals in HTML and CSS have been taught to me well by TOP. I spent quite a bit of time working through every example and extra resource, so I should be able to figure this one out without any help.
+
+## Image Credits
+img/manhattanbr.jpg 
