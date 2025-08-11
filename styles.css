@@ -6,8 +6,9 @@
     background-color: #1F2937;
     color: #f9faf8;
     font-size: 24px;
+    padding: 32px 180px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -22,4 +23,38 @@ a,
 a:visited {
     text-decoration: none;
     color: #e5e7eb
+}
+
+button {
+    background-color: #3882F6;
+    color: #f9faf8;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 32px;
+}
+
+.section1 {
+    background-color: #1F2937;
+    color: #f9faf8;
+    font-size: 36px;
+    display: flex;
+    padding: 64px 180px;
+    justify-content: space-between;
+    align-items: center;
+    gap: 64px;
+}
+
+h1,
+p {
+    margin: 0;
+}
+
+.section1 p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+img {
+    height: 250px;
+    width: 525px;
 }
