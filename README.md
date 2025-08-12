@@ -8,3 +8,8 @@ This is a pretty daunting task, but I believe my fundamentals in HTML and CSS ha
 ![City Intersection with Crosswalk and Buildings](./img/manhattanbr.jpg)
 Name: Willian Justen de Vasconcellos (https://unsplash.com/@willianjusten)
 
+![Happy Face](./img/happyface.png)
+![Angry Face](./img/angryface.png)
+![Blank Face](./img/blankface.png)
+![Sad Face](./img/sadface.png)
+Name: Jarrett Torres (I drew all of these in MS Paint)
